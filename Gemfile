@@ -42,7 +42,7 @@ gem 'bcrypt'
 
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
-  gem 'debugger'
+  #gem 'debugger'
   gem 'rspec-rails'
   gem 'spork', github: 'sporkrb/spork'
   #gem 'spork-rails', github: 'A-gen/spork-rails'
